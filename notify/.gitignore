@@ -17,8 +17,13 @@
 .env.development.local
 .env.test.local
 .env.production.local
-server/env
-server/__pycache__
+/server/env
+/server/__pycache__
+/server/core/__pycache__
+.env
+.config.py
+/env
+/__pycache
 
 npm-debug.log*
 yarn-debug.log*
